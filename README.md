@@ -3,6 +3,9 @@
 
 ## Game's Attractive Title Bar
 ![image](https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/b935391a-e309-47a9-af74-32f27c3c2093)
+## Screenshots   
+![Z](https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/77c59be2-c3f4-4d93-817b-f359e30f6e36)
+![Y](https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/e1acdf1e-2708-4e2d-98a5-c9072d783fea)
 
 Welcome to the Hangman game! This is a simple text-based implementation of the classic word-guessing game. The objective of the game is to guess the hidden word before the hangman is fully drawn.
 
