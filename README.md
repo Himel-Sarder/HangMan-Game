@@ -1,5 +1,5 @@
 # Hangman Game
-![H](https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/66b33647-05bd-4b06-85f3-8514e2a72dad)
+![V](https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/b050dbe6-bd80-41f5-a6a8-89fc5466e0ce)
 
 ## Game's Attractive Title Bar
 ![image](https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/b935391a-e309-47a9-af74-32f27c3c2093)
