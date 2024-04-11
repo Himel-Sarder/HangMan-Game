@@ -15,6 +15,9 @@ Welcome to the Hangman game! This is a simple text-based implementation of the c
 ## Take a Look   
 https://github.com/Himel-Sarder/HangMan-Game/assets/143216886/02ebf874-c85a-46aa-871e-e6a7105c5e2b
 
+## Use it in Replit   
+https://replit.com/@AntuSarder/HangMan-Game   
+
 ## How to Play
 
 1. Run the `hangman.py` file using Python.
